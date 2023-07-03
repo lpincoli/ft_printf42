@@ -8,7 +8,7 @@
 
 <ol>
   <li>Clone this repository:</li>
-  <pre><code>git clone git@github.com:lpincoli/ft_printf42.git</pre>
+  <pre><code>git clone git@github.com:lpincoli/ft_printf42.git</code></pre>
 
   <li>Go to the ft_printf directory:</li>
   <pre><code>cd ft_printf</code></pre>
