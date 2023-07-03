@@ -38,14 +38,4 @@
   <li><code>%%</code> : Prints a percent sign.</li>
 </ul>
 
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-<h2>Contact</h2>
-
-<p>If you found a bug, have any questions or want to contribute, feel free to <a href="mailto:&lt;your_email&gt;">contact me</a>!</p>
-
-<hr>
-
 <p>Enjoy using my ft_printf implementation! :)</p>
