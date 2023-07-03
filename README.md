@@ -4,6 +4,11 @@
 
 <p>This repository contains my implementation of the ft_printf project, a part of my programming journey. The aim of the project is to recreate the C Standard Library function - printf(). This project helps to explore the concept of variadic functions in C and further enhances the understanding of data types, modifiers, and formatting output in C.</p>
 
+
+### Requirements
+
+The function is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
+
 <h2>How to Use</h2>
 
 <ol>
