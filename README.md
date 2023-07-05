@@ -16,7 +16,7 @@ The function is written in C language and thus needs the **`gcc` compiler** and 
   <pre><code>git clone https://github.com/lpincoli/ft_printf42.git</code></pre>
 
   <li>Go to the ft_printf directory:</li>
-  <pre><code>cd ft_printf</code></pre>
+  <pre><code>cd ft_printf42</code></pre>
 
   <li>Run the Makefile to compile the library:</li>
   <pre><code>make</code></pre>
