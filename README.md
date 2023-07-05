@@ -43,5 +43,9 @@ The function is written in C language and thus needs the **`gcc` compiler** and 
   <li><code>%%</code> : Prints a percent sign.</li>
 </ul>
 
+<h2>Subject</h2>
+
+<p>For more information about the project, read the subject file.</p>
+
 <p>Enjoy using my ft_printf implementation! :)</p>
 
